@@ -1,7 +1,10 @@
 # Stock Trend Prediction App
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/demo-uber-nyc-pickups/main)
 
-![alt text]https://github.com/somanyadav/Stock-Trend-Prediction-App/blob/main/streamlit-app-2022-02-07-19-02-03.gif?raw=true)
+<img src="https://github.com/somanyadav/Stock-Trend-Prediction-App/blob/main/streamlit-app-2022-02-07-19-02-03.gif"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 
 
 # Installation
