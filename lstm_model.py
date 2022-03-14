@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/11oBm-V5Ejfrexw9t2k0Jh9YASyLudjRA
 """
 
-pip install --upgrade pandas
-pip install --upgrade pandas-datareader==0.10.0
+#pip install --upgrade pandas
+#pip install --upgrade pandas-datareader==0.10.0
 
 import numpy as np
 import pandas as pd
