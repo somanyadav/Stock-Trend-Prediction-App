@@ -1,0 +1,6 @@
+pandas
+pandas-datareader==0.10.0
+matplotlib
+numpy
+sklearn
+keras
